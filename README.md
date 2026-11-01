@@ -1,94 +1,40 @@
-# Hola, soy Julio Adrian León 👋
+¡Hola! Soy Adrián León 👋
 
-Soy desarrollador backend con aproximadamente 6 años de experiencia profesional
-trabajando en sistemas empresariales con **.NET, Java y SQL Server**.
+Backend Developer | Java · Spring · .NET · SQL Server
 
-Actualmente desarrollo y mantengo módulos backend utilizando **Java, Spring,
-Hibernate y SQL Server**. También cuento con experiencia previa desarrollando
-aplicaciones y APIs con **C#, ASP.NET MVC, Web API y Entity Framework**.
+Soy desarrollador Backend con aproximadamente 8 años de experiencia en desarrollo, mantenimiento e integración de aplicaciones empresariales.
 
-## 👨‍💻 Sobre mí
+Me especializo en construir soluciones de software que ayuden a organizaciones y negocios a mejorar sus procesos, automatizar operaciones y mantener sistemas confiables.
 
-- 🔧 Me especializo principalmente en desarrollo backend.
-- 🏢 Tengo experiencia en sistemas empresariales, recursos humanos, nómina y procesos administrativos.
-- 💻 He trabajado profesionalmente con C#, .NET, Java, Spring y SQL Server.
-- 🌱 Actualmente estoy reforzando ASP.NET Core, arquitectura de software, testing y Docker.
-- 🎯 Mi objetivo es crear APIs mantenibles, seguras y orientadas a resolver problemas reales.
-- 🇲🇽 Vivo en México y estoy abierto a oportunidades remotas.
+Actualmente trabajo como desarrollador Backend y también estoy abierto a colaborar en proyectos freelance de alcance definido.
 
-## 🛠️ Tecnologías
+🛠️ Tecnologías
 
-### Backend
+- Backend: Java, Spring MVC, Hibernate, Groovy, C#, .NET, PHP
+- Bases de datos: SQL Server, MySQL
+- Frontend: JavaScript, HTML, CSS, JSP
+- Herramientas: Git, Maven, Docker, IntelliJ IDEA, Visual Studio
+- Infraestructura: Apache Tomcat, Windows Server, fundamentos de Linux
 
-- C#
-- .NET Framework
-- ASP.NET MVC
-- ASP.NET Web API
-- Java
-- Spring MVC
-- Spring Boot
-- Hibernate
-- Entity Framework
+💼 Servicios que puedo ofrecer
 
-### Bases de datos
+- Desarrollo y mantenimiento de aplicaciones empresariales.
+- Desarrollo e integración de APIs REST.
+- Corrección de errores y mejoras en sistemas existentes.
+- Consultas, procedimientos y optimización de bases de datos SQL.
+- Automatización de procesos y generación de reportes.
+- Desarrollo de sistemas administrativos y portales web.
 
-- SQL Server
-- PostgreSQL
-- MySQL
+🚀 Proyectos
 
-### Frontend
+Actualmente estoy organizando proyectos demostrativos de Backend y aplicaciones administrativas para compartir ejemplos de mi trabajo.
 
-- JavaScript
-- React
-- Angular
-- AngularJS
-- HTML
-- CSS
+📚 Aprendizaje continuo
 
-### Herramientas
+Estoy fortaleciendo mis conocimientos en Linux, Docker, CI/CD y prácticas DevOps para mejorar la entrega y operación de aplicaciones.
 
-- Git
-- GitHub
-- Docker
-- Postman
-- Swagger
-- IntelliJ IDEA
-- Visual Studio
-- Neovim
+📬 Contacto
 
-## 🚀 Proyectos destacados
+Disponible para colaboraciones freelance y oportunidades profesionales.
 
-Actualmente estoy reconstruyendo mi portafolio con proyectos completos,
-documentados y enfocados en buenas prácticas de desarrollo.
-
-### Order Management API
-
-API para administrar clientes, productos, inventario y pedidos.
-
-**Estado:** En planificación.
-
-### Employee Management Platform
-
-Aplicación para administrar empleados, movimientos laborales y procesos internos.
-
-**Estado:** En planificación.
-
-### Payroll Processing API
-
-API para administrar periodos de nómina, incidencias y cálculos de pago.
-
-**Estado:** En planificación.
-
-## 📚 Actualmente estoy aprendiendo
-
-- ASP.NET Core moderno
-- Entity Framework Core
-- Arquitectura modular
-- Pruebas unitarias y de integración
-- Docker
-- CI/CD con GitHub Actions
-- Patrones de diseño
-
-## 📫 Contacto
-
-- GitHub: [AdriaanLeon](https://github.com/AdriaanLeon)
+Puedes contactarme a través de mi perfil de GitHub.
